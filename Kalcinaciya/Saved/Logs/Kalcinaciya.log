@@ -829,3 +829,8 @@ TCP connect to perforce:1666 failed.
 [2020.10.02-17.41.00:315][229]LogEditorActor: Deleted Actor: StaticMeshActor
 [2020.10.02-17.41.00:331][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
 [2020.10.02-17.41.00:336][229]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2020.10.02-17.45.52:845][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.10.02-17.45.52:848][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../ПроектыGit/Kalcinaciya2/Kalcinaciya/Saved/Autosaves/Game/Maps/NewMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.02-17.45.52:883][438]LogSavePackage: Moving '../../../../../ПроектыGit/Kalcinaciya2/Kalcinaciya/Saved/NewMap_Auto1434565C44CCEDBECB06F20A4D283EA6A.tmp' to '../../../../../ПроектыGit/Kalcinaciya2/Kalcinaciya/Saved/Autosaves/Game/Maps/NewMap_Auto1.umap'
+[2020.10.02-17.45.52:884][438]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewMap' took 0.053
+[2020.10.02-17.45.52:884][438]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.053
