@@ -819,3 +819,13 @@ TCP connect to perforce:1666 failed.
 [2020.10.02-17.35.54:183][705]AssetCheck: New page: Asset Save: multiple assets
 [2020.10.02-17.35.54:183][705]LogContentValidation: Display: Validating World /Game/Maps/NewMap.NewMap
 [2020.10.02-17.35.54:183][705]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMap_BuiltData.NewMap_BuiltData
+[2020.10.02-17.38.37:669][600]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2020.10.02-17.38.37:669][600]LogWindows: Warning: URL: E:/UE/UE_4.25/Engine/Binaries/Win64/https://github.com/l1lblackl1l/Kalcinaciya2.git version
+[2020.10.02-17.39.46:058][669]SourceControl: Source control is disabled
+[2020.10.02-17.39.46:058][669]LogSlate: Window 'Source Control Login' being destroyed
+[2020.10.02-17.40.59:599][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.10.02-17.41.00:020][229]Cmd: DELETE
+[2020.10.02-17.41.00:020][229]Cmd: ACTOR DELETE
+[2020.10.02-17.41.00:315][229]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.02-17.41.00:331][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.10.02-17.41.00:336][229]LogEditorActor: Deleted 1 Actors (0.090 secs)
